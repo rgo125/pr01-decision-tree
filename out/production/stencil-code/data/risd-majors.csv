@@ -1,0 +1,6 @@
+canDraw,isConceptual,caresAboutMoney,major
+TRUE,FALSE,FALSE,design
+TRUE,TRUE,FALSE,fineArt
+TRUE,TRUE,TRUE,design
+FALSE,TRUE,TRUE,fineArt
+TRUE,FALSE,TRUE,design

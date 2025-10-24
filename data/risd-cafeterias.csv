@@ -1,0 +1,7 @@
+year,dorm,isSocial,cafeteria
+freshman,theQuad,FALSE,met
+freshman,theQuad,TRUE,met
+nonFreshman,fifteenWest,FALSE,portfolio
+nonFreshman,theQuad,TRUE,met
+nonFreshman,fifteenWest,TRUE,met
+gradStudent,fifteenWest,TRUE,portfolio
